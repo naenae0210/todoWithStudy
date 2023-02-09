@@ -1,4 +1,4 @@
-package com.todo.todo;
+package project.todoStudy.todo;
 
 import java.io.*;
 import javax.servlet.http.*;
